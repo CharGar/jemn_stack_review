@@ -31,6 +31,8 @@ Client asks that the ability to create and remove records be present in the firs
 
 Example: [https://jemn-stack-review.herokuapp.com/](https://jemn-stack-review.herokuapp.com/)
 
+_note_: SQUARE ALBUM COVER PICTURES PLZ
+
 Hard Mode:
 ===
 If time and budget allows, the ability to edit existing records will be greatly appreciated.
