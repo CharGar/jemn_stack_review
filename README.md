@@ -29,6 +29,8 @@ The data should be kept in a Mongo DB and displayed on the page that uses bootst
 
 Client asks that the ability to create and remove records be present in the first iteration.
 
+Example: [https://jemn-stack-review.herokuapp.com/](https://jemn-stack-review.herokuapp.com/)
+
 Hard Mode:
 ===
 If time and budget allows, the ability to edit existing records will be greatly appreciated.
