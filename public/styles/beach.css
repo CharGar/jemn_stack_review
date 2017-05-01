@@ -1,0 +1,36 @@
+a {
+  color: navy;
+  font-family: helvetica;
+}
+body {
+  font-family: courier;
+  background-color: #F5FAFA;
+}
+h1 {
+  color: #6D929B;
+  font-family: arial;
+  margin-left: 1%;
+}
+h2 {
+  color: white;
+  font-family: arial;
+  margin-left: 2%;
+}
+h3 {
+  color: white;
+  font-family: arial;
+  margin-left: 2%;
+}
+p {
+  color: white;
+  font-family: courier;
+  margin-left: 3%;
+}
+.card{
+  background-color: grey;
+  color: white;
+  padding: 3px;
+}
+.cardText{
+  color: white;
+}

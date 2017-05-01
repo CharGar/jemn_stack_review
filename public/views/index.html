@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>JEMN Stack Record Collection</title>
+    <script src="vendors/jquery-3.2.1.min.js" charset="utf-8"></script>
+    <script src="vendors/bootstrap.min.js" charset="utf-8"></script>
+    <script src="scripts/client.js" charset="utf-8"></script>
+    <link rel="stylesheet" href="styles/bootstrap.css">
+    <link rel="stylesheet" href="styles/bootstrap-theme.css">
+    <link rel="stylesheet" href="styles/beach.css">
+  </head>
+  <body>
+    <!-- bootstrap jumbotron -->
+    <div class="jumbotron">
+      <div class="container">
+        <h1>JEMN Stack Record Collection</h1>
+      </div>
+    </div>
+    <hr />
+    <div class="container">
+      <center>
+        <input type="text" id='artistIn' placeholder="artist" />
+        <input type="text" id='albumIn' placeholder="album" />
+        <input type="number" id='releaseYearIn' placeholder="release year" />
+        <input type="text" id='imageUrlIn' placeholder="imageUrl" />
+        <button id='addAlbumButton' class="btn btn-secondary">Add Album</button>
+      </center>
+    </div>
+    <hr />
+    <!-- content -->
+    <div class="container">
+      <div class="row" id='outputDiv'>
+      </div>
+    </div>
+  </body>
+</html>
